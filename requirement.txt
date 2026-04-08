@@ -1,0 +1,7 @@
+groq
+streamlit
+duckduckgo-search
+
+pypdf
+sentence-transformers
+faiss-cpu
